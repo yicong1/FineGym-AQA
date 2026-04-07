@@ -11,10 +11,10 @@ Each source video is indexed by a video ID. Event clips are stored under keys su
 A typical event entry may contain:
 
 - `event`: apparatus ID
-  - `1`: VT
-  - `2`: FX
-  - `3`: BB
-  - `4`: UB
+  - `1`: VT (Vault)
+  - `2`: FX (Floor Exercise)
+  - `3`: BB (Balance Beam)
+  - `4`: UB (Uneven Bar)
 - `timestamps`: clip-level timestamps in the source video
 - `segments`: fine-grained element/Sub-action segments
 - `score`: routine-level scores (`diff`, `execution`, `nd`, `total`)
