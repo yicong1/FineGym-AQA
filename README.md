@@ -1,8 +1,8 @@
 # FineGrade: A Rule-Consistent Scoring Framework for Fine-Grained Action Quality Assessment
 
-This repository hosts the release for FineGym-AQA, a fine-grained action quality assessment benchmark built on top of [FineGym](https://www.baidu.com).
+This repository hosts the release for FineGym-AQA, a fine-grained action quality assessment benchmark built on top of [FineGym](https://github.com/SDOlivia/FineGym/).
 
-![Overview](./imgs/figure1.png)
+![Overview](assets/imgs/figure1.png)
 
 ## Annotation Format
 
